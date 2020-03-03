@@ -97,6 +97,8 @@ var books = [
 
 ---
 
+### Extra
+
 # Creating Random Images
 
 Start of with the following HTML:
